@@ -112,7 +112,8 @@ Namun pada kasus lain, yaitu saldo member tidak mencukupi atau belum ada saldo m
 
 ![image](https://github.com/user-attachments/assets/bb957c9f-7bfb-4071-9262-e9120156f2ae)
 
-Apabila member ingin mengisi saldo, dapat menginputkan "2". Setelah itu, bisa memasukkan nominal saldo yang ingin diisi.
+Apabila member ingin mengisi saldo, dapat menginputkan "2". Setelah itu, bisa memasukkan nominal saldo yang ingin diisi. 
+Apabila berhasil mengisi saldo, member akan mendapatkan invoice.
 
 ![image](https://github.com/user-attachments/assets/fde3ce72-eb6a-4a69-a7c9-0bf5673dc358)
 

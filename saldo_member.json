@@ -1,0 +1,16 @@
+{
+    "member gym": [
+        {
+            "username": "angie",
+            "saldo": 100000
+        },
+        {
+            "username": "zelsya",
+            "saldo": 100000
+        },
+        {
+            "username": "lala",
+            "saldo": 100000
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "pricelist_produk": [
+        {
+            "nomor": 1,
+            "jangka waktu": "1 kunjungan",
+            "harga": 50000
+        },
+        {
+            "nomor": 2,
+            "jangka waktu": "1 minggu",
+            "harga": 150000
+        },
+        {
+            "nomor": 3,
+            "jangka waktu": "2 minggu",
+            "harga": 170000
+        },
+        {
+            "nomor": 4,
+            "jangka waktu": "1 bulan",
+            "harga": 250000
+        },
+        {
+            "nomor": 5,
+            "jangka waktu": "2 bulan",
+            "harga": 450000
+        },
+        {
+            "nomor": 6,
+            "jangka waktu": "3 bulan",
+            "harga": 625000
+        },
+        {
+            "nomor": 7,
+            "jangka waktu": "1 tahun",
+            "harga": 2250000
+        }
+    ]
+}
